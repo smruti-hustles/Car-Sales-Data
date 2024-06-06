@@ -17,7 +17,7 @@ By analyzing these visualizations, users can gain a better understanding of the 
 ## How to Use
 
 1. **Accessing the Dashboard:**
-   - Open the Tableau dashboard file (`car_sales_dashboard.twbx`) using Tableau Desktop or Tableau Public.
+   - Open the Tableau dashboard https://public.tableau.com/views/car-sales/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link using Tableau Public.
 
 2. **Interacting with the Dashboard:**
    - Explore different visualizations by clicking on elements or using filter options.
@@ -29,7 +29,7 @@ By analyzing these visualizations, users can gain a better understanding of the 
 
 ## Data Source
 
-The car sales data used in this project is sourced from the provided `cars-sales-data.xlsx` file. The dataset contains information about car sales, including sales amount, region, model, date, and other relevant attributes.
+The car sales data used in this project is sourced from the provided `Cars Sales Date.xlsx` file which is provided. The dataset contains information about car sales, including sales amount, region, model, date, and other relevant attributes.
 
 
 ## Contributions
